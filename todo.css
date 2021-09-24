@@ -1,0 +1,21 @@
+.disabledList{
+    
+    pointer-events:none; 
+    opacity:0.6;        
+
+}
+
+#todoList{
+    border: 10px solid rgb(184, 11, 11);
+    border-radius: 1rem;
+}
+
+#mainnavbar{
+    background: rgb(3, 1, 14);
+}
+body{
+    background-image: url("img/bg2.jpg");
+    background-position: center; 
+    background-size: cover; 
+    background-repeat: no-repeat, repeat;
+  }
